@@ -106,7 +106,7 @@ void SLNodeInsert(SLNode** pphead, char c)
 	}
 	else 
 	{
-		SLNode *next = 
+		//SLNode *next = 
 	}
 }
 
